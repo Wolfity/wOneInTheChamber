@@ -1,0 +1,17 @@
+lobby-countdown: 10
+game-timer: 60
+
+min-players: 1
+max-players: 5
+max-kills: 20
+
+lobby-coords:
+
+arena:
+  x1: 50
+  x2: -50
+  z1: 100
+  z2: -100
+
+spawn-locations:
+
