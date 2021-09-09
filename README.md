@@ -13,14 +13,14 @@ Then there is 1 more step, which is creating spawn locations for the player. All
 How to join a game? Very simple, type the command /oitc join!
 
 ### **Commands**
-`/oitc admin` Shows the admin command
-`/oitc forcestart` Force starts a game (not supported)
-`/oitc forceend` Force ends a game (not supported)
-`/oitc setspawnloc` Creates a player spawn location
-`/oitc setlobby` Creates a lobby spawn location
-`/oitc setworldspawn` Sets the world spawn point
-`/oitc help` Shows the help command
-`/oitc join` Joins a game
+`/oitc admin` Shows the admin command\
+`/oitc forcestart` Force starts a game (not supported)\
+`/oitc forceend` Force ends a game (not supported)\
+`/oitc setspawnloc` Creates a player spawn location\
+`/oitc setlobby` Creates a lobby spawn location\
+`/oitc setworldspawn` Sets the world spawn point\
+`/oitc help` Shows the help command\
+`/oitc join` Joins a game\
 `/oitc leave` Leave a game
 
 Note: 
